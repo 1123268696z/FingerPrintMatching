@@ -4,7 +4,8 @@
 # Fingerprint Matching System based on OpenCV & SIFT
 
 本项目是一个基于 **SIFT 特征点提取**与 **FLANN 快速匹配算法**的指纹识别系统。它能够从指纹数据库中自动检索与样本最匹配的真实指纹，并计算相似度。
-本项目使用的指纹图片数据源:https://www.kaggle.com/datasets/ruizgara/socofing/data
+
+##本项目使用的指纹图片数据源:https://www.kaggle.com/datasets/ruizgara/socofing/data
 ---
 
 ## 🌟 项目亮点
